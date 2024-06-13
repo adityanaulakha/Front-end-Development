@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 
-Feel free to customize the placeholder links and paths to your actual LinkedIn profile and the image path in the repository.e the LICENSE file for details. Feel free to customize the placeholder links and paths to your actual LinkedIn profile and the image path in the repository.
+Feel free to customize the placeholder links and paths to your actual LinkedIn profile and the image path in the repository.
