@@ -5,7 +5,7 @@ Projects Overview
 
 This repository showcases various projects I have worked on as a front-end developer. Each project demonstrates my skills in HTML, CSS, and JavaScript, and my continuous effort to learn and improve. Below is a summary of the projects:
 
-# Registration Form
+# 1. Registration Form
 
 Description: A user-friendly registration form built with HTML and CSS. The form includes fields for essential information such as first name, last name, email, mobile number, city, university/college name, graduation year, and a file upload option. This project focuses on creating a clean and responsive design.
 
