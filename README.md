@@ -28,11 +28,6 @@ Responsive Design Principles
 # Connect with Me
 
 I am always open to feedback, suggestions, and collaboration. Feel free to connect with me on LinkedIn or check out more of my work on GitHub.
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ________________________________________________________________________________________________________________________________________________________________________________________
 
 Feel free to customize the placeholder links and paths to your actual LinkedIn profile and the image path in the repository.
