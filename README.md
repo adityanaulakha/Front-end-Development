@@ -7,12 +7,34 @@ This repository showcases various projects I have worked on as a front-end devel
 
 # 1. Registration Form
 
-Description: A user-friendly registration form built with HTML and CSS. The form includes fields for essential information such as first name, last name, email, mobile number, city, university/college name, graduation year, and a file upload option. This project focuses on creating a clean and responsive design.
+Description: A user-friendly contact form built with HTML and Tailwind CSS. The form includes fields for essential information such as email address, type of help needed, subject, description, and a file upload option. This project focuses on creating a clean and responsive design.
 
 Features:
         Input validation
         Responsive design
         File upload functionality
+
+# 2. Contact Us Page
+
+Description: A user-friendly registration form built with HTML and CSS. The form includes fields for essential information such as first name, last name, email, mobile number, city, university/college name, graduation year, and a file upload option. This project focuses on creating a clean and responsive design.
+
+Features:
+        Responsive Design: The form layout adjusts smoothly for various screen sizes, ensuring a great user experience on both desktop and mobile devices.
+        Modern UI: Styled with Tailwind CSS for a sleek and contemporary appearance.
+        Custom Fonts: Utilizes Google Fonts (Poppins) for improved typography.
+        Form Elements:
+                Email Address input
+                Dropdown for selecting the type of help needed
+                Subject input
+                Description textarea with character count limit
+                File upload button with custom styling and supported file format restrictions
+        Submit Button: Styled for prominence and interactivity.
+
+Technologies Used:
+        HTML5: For the basic structure of the page.
+        Tailwind CSS: For styling and responsive design.
+        Google Fonts: For custom typography.
+        JavaScript: For dynamic character count in the description textarea.
 
 # Continuous Improvement
 
