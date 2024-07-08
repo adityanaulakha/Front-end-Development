@@ -9,32 +9,44 @@ This repository showcases various projects I have worked on as a front-end devel
 
 Description: A user-friendly contact form built with HTML and Tailwind CSS. The form includes fields for essential information such as email address, type of help needed, subject, description, and a file upload option. This project focuses on creating a clean and responsive design.
 
-Features:
+Features:<br>
         Input validation
+        <br>
         Responsive design
+        <br>
         File upload functionality
 
 # 2. Contact Us Page
 
 Description: A user-friendly registration form built with HTML and CSS. The form includes fields for essential information such as first name, last name, email, mobile number, city, university/college name, graduation year, and a file upload option. This project focuses on creating a clean and responsive design.
 
-Features:
+Features: <br>
         Responsive Design: The form layout adjusts smoothly for various screen sizes, ensuring a great user experience on both desktop and mobile devices.
         <br>
         Modern UI: Styled with Tailwind CSS for a sleek and contemporary appearance.
+        <br>
         Custom Fonts: Utilizes Google Fonts (Poppins) for improved typography.
-        Form Elements:
+        <br>
+        Form Elements:<br>
                 Email Address input
+                <br>
                 Dropdown for selecting the type of help needed
+                <br>
                 Subject input
+                <br>
                 Description textarea with character count limit
+                <br>
                 File upload button with custom styling and supported file format restrictions
+                <br>
         Submit Button: Styled for prominence and interactivity.
 
-Technologies Used:
+Technologies Used:<br>
         HTML5: For the basic structure of the page.
+        <br>
         Tailwind CSS: For styling and responsive design.
+        <br>
         Google Fonts: For custom typography.
+        <br>
         JavaScript: For dynamic character count in the description textarea.
 
 # Continuous Improvement
