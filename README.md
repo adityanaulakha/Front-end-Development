@@ -20,6 +20,7 @@ Description: A user-friendly registration form built with HTML and CSS. The form
 
 Features:
         Responsive Design: The form layout adjusts smoothly for various screen sizes, ensuring a great user experience on both desktop and mobile devices.
+        <br>
         Modern UI: Styled with Tailwind CSS for a sleek and contemporary appearance.
         Custom Fonts: Utilizes Google Fonts (Poppins) for improved typography.
         Form Elements:
