@@ -9,7 +9,7 @@ This repository showcases various projects I have worked on as a front-end devel
 
 ## Description: A user-friendly contact form built with HTML and Tailwind CSS. The form includes fields for essential information such as email address, type of help needed, subject, description, and a file upload option. This project focuses on creating a clean and responsive design.
 
-## Features:<br>
+Features:<br>
         Input validation
         <br>
         Responsive design
@@ -18,7 +18,7 @@ This repository showcases various projects I have worked on as a front-end devel
 
 # 2. Contact Us Page
 
-Description: A user-friendly registration form built with HTML and CSS. The form includes fields for essential information such as first name, last name, email, mobile number, city, university/college name, graduation year, and a file upload option. This project focuses on creating a clean and responsive design.
+## Description: A user-friendly registration form built with HTML and CSS. The form includes fields for essential information such as first name, last name, email, mobile number, city, university/college name, graduation year, and a file upload option. This project focuses on creating a clean and responsive design.
 
 Features: <br>
         Responsive Design: The form layout adjusts smoothly for various screen sizes, ensuring a great user experience on both desktop and mobile devices.
